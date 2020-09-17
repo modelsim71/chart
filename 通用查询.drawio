@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-09-17T11:06:10.216Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="IFlnxgsk3-l8r4_ojNXY" version="13.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-17T11:10:41.606Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="YwX8BdKIiDek5oNRMNQ0" version="13.6.4" type="github" pages="2">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1395" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7baba1c4bc27f4b0-2" value="yunapi" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+        <mxCell id="7baba1c4bc27f4b0-2" value="YunApi" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="240" y="80" width="100" height="330" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-2" vertex="1">
@@ -163,6 +163,12 @@
             <mxPoint x="735" y="270" as="sourcePoint" />
             <mxPoint x="865" y="270" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="d2u8ksnhpPRQbv2eghVy-13" value="参数检查" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;sketch=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="455" y="180" width="55" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d2u8ksnhpPRQbv2eghVy-14" value="网络设备信息写入ZK,配置同步到monitor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;sketch=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="740" y="220" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
