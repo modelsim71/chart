@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-18T11:43:20.318Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="0EYkyxvkmiz2SY80k4Ex" version="13.6.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-09-18T11:46:55.311Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="1V8XjmLRW2K2t0N8IbSt" version="13.6.4" type="github" pages="7">
   <diagram name="列表页流程" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1694" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -373,6 +373,24 @@
         </mxCell>
         <mxCell id="6H3mjBsQpc0Cl-Bmhdbp-33" value="&lt;b&gt;MR&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;sketch=0;fontSize=9;fontColor=#000000;" vertex="1" parent="GsDM0AJIOzic4ASQ66OC-1">
           <mxGeometry x="400" y="560" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6H3mjBsQpc0Cl-Bmhdbp-35" value="" style="shape=mxgraph.cisco.routers.router;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;rounded=0;shadow=0;labelBackgroundColor=none;sketch=0;fontSize=9;fontColor=#000000;" vertex="1" parent="GsDM0AJIOzic4ASQ66OC-1">
+          <mxGeometry x="391" y="460" width="78" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="6H3mjBsQpc0Cl-Bmhdbp-36" value="" style="endArrow=classic;html=1;shadow=0;fontSize=9;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="GsDM0AJIOzic4ASQ66OC-1" source="6H3mjBsQpc0Cl-Bmhdbp-2" target="6H3mjBsQpc0Cl-Bmhdbp-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="790" as="sourcePoint" />
+            <mxPoint x="330" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6H3mjBsQpc0Cl-Bmhdbp-38" value="" style="endArrow=classic;html=1;shadow=0;fontSize=9;fontColor=#000000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="GsDM0AJIOzic4ASQ66OC-1" source="6H3mjBsQpc0Cl-Bmhdbp-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="389" y="563" as="sourcePoint" />
+            <mxPoint x="439" y="513" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
