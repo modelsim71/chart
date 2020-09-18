@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-18T08:18:41.004Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="kZO0XrzmJ81VMiQZetXo" version="13.6.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-09-18T08:26:46.540Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="X8UenGZ3FZInN7tSy0Hf" version="13.6.4" type="github" pages="6">
   <diagram name="列表页流程" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1694" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -743,10 +743,10 @@
             <mxPoint x="107.28571428571422" y="111" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sEMWLZaodot3cei57XuO-3" value="1minites Timer" style="" vertex="1" parent="sEMWLZaodot3cei57XuO-0">
+        <mxCell id="sEMWLZaodot3cei57XuO-3" value="查找设备指标内存,判断设备可达性" style="whiteSpace=wrap;" vertex="1" parent="sEMWLZaodot3cei57XuO-0">
           <mxGeometry x="55" y="111" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sEMWLZaodot3cei57XuO-4" value="查找设备指标内存,更新设备状态,设备端口/板块信息" style="whiteSpace=wrap;fontSize=9;" vertex="1" parent="sEMWLZaodot3cei57XuO-0">
+        <mxCell id="sEMWLZaodot3cei57XuO-4" value="更新设备状态,设备端口/板卡信息" style="whiteSpace=wrap;fontSize=9;" vertex="1" parent="sEMWLZaodot3cei57XuO-0">
           <mxGeometry x="56" y="220" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sEMWLZaodot3cei57XuO-5" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.471;entryY=-0.043;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="sEMWLZaodot3cei57XuO-0" source="sEMWLZaodot3cei57XuO-3">
